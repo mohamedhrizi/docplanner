@@ -1,0 +1,184 @@
+nav{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+main{
+    margin: 20px auto;
+}
+.presentation {
+    margin: 33px auto 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1015px;
+} 
+h2 {
+    color: #00b39b;
+    font-weight: 300;
+    letter-spacing: .3px;
+}
+.making{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.making h2 {
+    font-size: 34px;
+    line-height: 44.2px;
+    margin: 34px auto;
+    text-align: center;
+}
+.making p {
+    margin: 12.8px auto;
+    font-size: 15px;
+    line-height: 28px;
+    padding: 10px;
+}
+.making-text {
+    display: flex;
+    flex-flow: row nowrap;}
+    main img{
+        justify-content: center;
+    }
+    .making img{
+        width: ;
+    }
+    .paragraphs{
+        display: flex;
+    }
+    .for-patients {
+        background-color: #00ccb1;
+    }
+    .for-doctors {
+        background-color: #3d83df;
+    }
+    .for-clinics{
+        background-color: red;
+    }
+    .service-items {
+        display: flex;
+        flex-flow: row nowrap;
+        box-sizing: border-box;
+        max-width: 1015px;
+        margin: 0 auto;
+    }
+    .item {
+        border-radius: 10px;
+        margin: 10px;
+        padding: 22px 40px 0;
+        box-sizing: border-box;
+        width: 50%;
+        height: auto;
+        overflow:hidden;
+    }
+    .service-items p {
+        font-size: 1.625em;
+        color: white;
+        margin: 7.8px 0 28px;
+        display: block;
+    }
+    .service-items h3 {
+        color: hsla(0,0%,100%,.7);
+        font-size: 14px;
+    }
+    .service-items img {
+        margin-left: 40%;
+        margin-top: -2.3em;
+        max-width: 100%;
+        height: 249px;
+    }    
+    
+    select {
+        min-height: 40px;
+        border-radius: 4px;
+        background-color: white;
+        text-transform: uppercase;
+        border: none;
+        width: max-content;
+        padding: 0 18px 0 8px;
+        font-weight: 600;
+    }
+    section{
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .img{
+        width: 60%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+        .img svg{
+            width: 21%;
+        }
+    .partners{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .global{
+        margin: 0 auto;
+        width: 70%;
+    }
+    .country{
+        width: 30%;
+    }
+    .button{
+       
+        display: flex;
+        justify-content: space-between;
+    }
+    .global{
+        flex-wrap: wrap;
+        display: flex;
+        gap: 5%;
+    }
+    .button{
+        border: none;
+        border-color: aqua;
+        background-color: #3d83df;
+        color: aquamarine;
+    }
+    .header2{
+        color: #333;
+        text-align: center;
+        font-family: Roboto, Arial, sans-serif;
+        line-height: 80px;
+    
+    }
+    .header22{
+        font-weight: 300;
+        font-size: 500;
+        margin: 0%;align-self: ;
+        width:70% ;
+        widht
+    footer {
+        text-align: center;
+        margin: 0;
+        padding: 12px 20px;
+        border-top: 1px solid rgb(238, 242, 242);
+        min-width: 100%;
+    }
+    footer p {
+        font-size: 12px;
+        color: #ababab;
+        margin: 19.2px auto 4.8px;
+    }
+    footer a {
+        text-decoration: none;
+        color: #3d83df;
+    }
